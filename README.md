@@ -1,1 +1,1 @@
-# data-current-pattern
+component-current
